@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822543005148",
+    "project_id": "ppapb-pertemuan13-budgetbuddy",
+    "storage_bucket": "ppapb-pertemuan13-budgetbuddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822543005148:android:c766e2fb062aca7c318b19",
+        "android_client_info": {
+          "package_name": "com.example.ppapb_pertemuan13_budgetbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARXTW7YqRRZQ4_8xQamezW_5kB9IMtqkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
